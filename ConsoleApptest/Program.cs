@@ -10,9 +10,6 @@ namespace ConsoleApptest
             Console.WriteLine("Please write the text you want to be printed out");
             var textToPrint = Console.ReadLine();
             Console.WriteLine("this is the text to be printed: {0}", textToPrint.ToString());
-<<<<<<< Updated upstream
-            string SysInfo = System.DateTime.Today.ToString();
-            Console.WriteLine("this is the current time: {0}", SysInfo);
             //This are the building blocks for a clock feature
 =======
 >>>>>>> Stashed changes
